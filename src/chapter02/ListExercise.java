@@ -22,7 +22,5 @@ public class ListExercise {
         for (String name : names) {
             System.out.println(name);
         }
-
     }
-
 }
